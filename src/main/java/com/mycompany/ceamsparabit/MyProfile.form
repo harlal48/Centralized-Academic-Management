@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="subdcode" min="-2" pref="240" max="-2" attributes="0"/>
+                                  <Component id="scode" alignment="0" min="-2" pref="240" max="-2" attributes="0"/>
+                                  <Component id="empwpost" alignment="0" min="-2" pref="240" max="-2" attributes="0"/>
+                                  <Component id="empname" alignment="0" min="-2" pref="240" max="-2" attributes="0"/>
+                                  <Component id="wname" min="-2" pref="239" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="190" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="empid" min="-2" pref="239" max="-2" attributes="0"/>
+                                  <Component id="adhano" min="-2" pref="239" max="-2" attributes="0"/>
+                                  <Component id="distcode" min="-2" pref="239" max="-2" attributes="0"/>
+                                  <Component id="zcode" min="-2" pref="239" max="-2" attributes="0"/>
+                                  <Component id="wcode" min="-2" pref="239" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="add" min="-2" pref="118" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jTextField1" min="-2" pref="135" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="devid" alignment="0" min="-2" pref="118" max="-2" attributes="0"/>
+                                  <Component id="deviallotedby" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="jTextField3" min="-2" pref="135" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jLabel9" min="-2" pref="118" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="jTextField2" min="-2" pref="135" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="106" max="-2" attributes="0"/>
+                      <Component id="jLabel16" min="-2" pref="246" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="383" max="-2" attributes="0"/>
+                      <Component id="jLabel15" min="-2" pref="144" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="86" pref="424" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                      <Component id="jLabel15" min="-2" pref="23" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="empid" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="empname" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="empwpost" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="adhano" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="scode" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="distcode" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="subdcode" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="zcode" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="wname" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="wcode" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="add" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jTextField1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="devid" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jTextField2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+                              <Component id="jLabel16" min="-2" pref="262" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="316" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                              <Component id="deviallotedby" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jTextField3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="172" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="empname">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Employee Name :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="empwpost">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Employee Workpost :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="scode">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="State Code :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="subdcode">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" SubDistCode :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="empid">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Employee ID :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="adhano">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Aadhar Number :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="distcode">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="District Code :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="wname">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ward Name :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+    </Component>
+    <Component class="javax.swing.JLabel" name="wcode">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ward Code :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="devid">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Device ID :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="deviallotedby">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Device Alloted By :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="zcode">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Zone Code :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="add">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Address :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="  "/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField3ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel15">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="MY    PROFILE"/>
+        <Property name="verticalAlignment" type="int" value="1"/>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+            <EtchetBorder/>
+          </Border>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel16">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="                           Employee Image"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder/>
+          </Border>
+        </Property>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
